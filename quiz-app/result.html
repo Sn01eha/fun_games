@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Results - BrainBreeze</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Quiz Results for {{ topic }}</h1>
+        <p class="score-display">You scored: {{ score }} out of {{ total_questions }}</p>
+
+        <div class="results-summary">
+            {% for result in results_detail %}
+                <div class="question-result {{ 'correct' if result.is_correct else 'incorrect' }}">
+                    <p><strong>Q:</strong> {{ result.question }}</p>
+                    <p><strong>Your Answer:</strong> {{ result.user_answer if result.user_answer else 'No answer' }}</p>
+                    <p><strong>Correct Answer:</strong> {{ result.correct_answer }}</p>
+                    {% if result.is_correct %}
+                        <span class="status-icon">&#10003;</span> <!-- Checkmark -->
+                    {% else %}
+                        <span class="status-icon">&#10007;</span> <!-- X mark -->
+                    {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="button-group">
+            <a href="{{ url_for('topics') }}" class="button">Try Another Topic</a>
+            <a href="{{ url_for('index') }}" class="button">Go to Home</a>
+        </div>
+    </div>
+</body>
+</html>
+

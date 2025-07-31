@@ -1,0 +1,388 @@
+{
+  "BTS": [
+    {
+      "question": "Who is the leader of BTS?",
+      "options": ["Jimin", "RM", "Jungkook", "Suga"],
+      "answer": "RM"
+    },
+    {
+      "question": "Which year did BTS officially debut?",
+      "options": ["2012", "2013", "2014", "2015"],
+      "answer": "2013"
+    },
+    {
+      "question": "What is the name of BTS's fandom?",
+      "options": ["EXO-L", "ARMY", "BLINK", "MOA"],
+      "answer": "ARMY"
+    },
+    {
+      "question": "Which member is known as 'Worldwide Handsome'?",
+      "options": ["J-Hope", "V", "Jin", "Jungkook"],
+      "answer": "Jin"
+    },
+    {
+      "question": "What was BTS's first English single?",
+      "options": ["Butter", "Dynamite", "Permission to Dance", "Idol"],
+      "answer": "Dynamite"
+    },
+    {
+      "question": "Which BTS album features the song 'Spring Day'?",
+      "options": ["Love Yourself: Her", "Wings", "You Never Walk Alone", "Map of the Soul: Persona"],
+      "answer": "You Never Walk Alone"
+    },
+    {
+      "question": "Which member is the main dancer and dance leader?",
+      "options": ["Jimin", "Suga", "RM", "J-Hope"],
+      "answer": "J-Hope"
+    },
+    {
+      "question": "What is the name of BTS's self-produced variety show?",
+      "options": ["Run BTS!", "BTS Gayo", "Bon Voyage", "In the SOOP"],
+      "answer": "Run BTS!"
+    },
+    {
+      "question": "Which member is known for his deep voice and acting career?",
+      "options": ["Jimin", "Jungkook", "V", "Jin"],
+      "answer": "V"
+    },
+    {
+      "question": "What is the title track of the 'Love Yourself: Answer' album?",
+      "options": ["Fake Love", "DNA", "IDOL", "Boy With Luv"],
+      "answer": "IDOL"
+    },
+    {
+      "question": "Which member is the youngest (maknae) of BTS?",
+      "options": ["Jimin", "V", "Jungkook", "J-Hope"],
+      "answer": "Jungkook"
+    },
+    {
+      "question": "What is Suga's solo stage name?",
+      "options": ["Agust D", "Hobi", "Jiminie", "Kookie"],
+      "answer": "Agust D"
+    },
+    {
+      "question": "Which BTS song features Halsey?",
+      "options": ["Dynamite", "IDOL", "Boy With Luv", "Butter"],
+      "answer": "Boy With Luv"
+    },
+    {
+      "question": "Before debuting, what was RM's stage name?",
+      "options": ["Rap Monster", "Leader Mon", "God of Destruction", "Pink Mon"],
+      "answer": "Rap Monster"
+    },
+    {
+      "question": "Which BTS member is known for his high notes and contemporary dance?",
+      "options": ["Jungkook", "Jimin", "Jin", "V"],
+      "answer": "Jimin"
+    }
+  ],
+  "KPOP world": [
+    {
+      "question": "Which K-pop group debuted with 'No More Dream'?",
+      "options": ["EXO", "Blackpink", "BTS", "TWICE"],
+      "answer": "BTS"
+    },
+    {
+      "question": "Who is often called the 'Queen of K-pop'?",
+      "options": ["HyunA", "IU", "BoA", "Taeyeon"],
+      "answer": "BoA"
+    },
+    {
+      "question": "Which company manages the group BLACKPINK?",
+      "options": ["SM Entertainment", "JYP Entertainment", "YG Entertainment", "Big Hit Music"],
+      "answer": "YG Entertainment"
+    },
+    {
+      "question": "What is the name of TWICE's fandom?",
+      "options": ["ONCE", "MIDZY", "NEVERLAND", "ReVeluv"],
+      "answer": "ONCE"
+    },
+    {
+      "question": "Which male K-pop group is known for their concept of 'superpowers'?",
+      "options": ["SEVENTEEN", "NCT", "EXO", "Stray Kids"],
+      "answer": "EXO"
+    },
+    {
+      "question": "Which song by PSY became a global phenomenon in 2012?",
+      "options": ["Gentleman", "Daddy", "Gangnam Style", "New Face"],
+      "answer": "Gangnam Style"
+    },
+    {
+      "question": "Which K-pop girl group is known for their 'Red Flavor' and 'Psycho' concepts?",
+      "options": ["ITZY", "Red Velvet", "MAMAMOO", "GFRIEND"],
+      "answer": "Red Velvet"
+    },
+    {
+      "question": "Who is the main vocalist of Girls' Generation?",
+      "options": ["Yuri", "Yoona", "Seohyun", "Taeyeon"],
+      "answer": "Taeyeon"
+    },
+    {
+      "question": "Which K-pop agency is home to groups like Stray Kids and ITZY?",
+      "options": ["SM Entertainment", "JYP Entertainment", "YG Entertainment", "Cube Entertainment"],
+      "answer": "JYP Entertainment"
+    },
+    {
+      "question": "What is the official color of SEVENTEEN's fandom, Carat?",
+      "options": ["Rose Quartz and Serenity", "Pearl Aqua", "Neon Green", "Rose Gold"],
+      "answer": "Rose Quartz and Serenity"
+    },
+    {
+      "question": "Which K-pop group sang the hit song 'DDU-DU DDU-DU'?",
+      "options": ["TWICE", "Red Velvet", "BLACKPINK", "MAMAMOO"],
+      "answer": "BLACKPINK"
+    },
+    {
+      "question": "Which male soloist is known for songs like 'Eight' (feat. Suga of BTS) and 'Blueming'?",
+      "options": ["Zico", "Crush", "IU", "Dean"],
+      "answer": "IU"
+    },
+    {
+      "question": "What is the debut song of the girl group NewJeans?",
+      "options": ["Hype Boy", "Ditto", "OMG", "Attention"],
+      "answer": "Attention"
+    },
+    {
+      "question": "Which K-pop boy group is known for their powerful performances and 'God's Menu'?",
+      "options": ["TXT", "ENHYPEN", "Stray Kids", "ATEEZ"],
+      "answer": "Stray Kids"
+    },
+    {
+      "question": "Which K-pop idol is known as 'The Nation's First Love'?",
+      "options": ["Suzy", "Yoona", "IU", "Seolhyun"],
+      "answer": "Suzy"
+    }
+  ],
+  "Kdrama": [
+    {
+      "question": "Which drama features a character who is a Gumiho (nine-tailed fox)?",
+      "options": ["Crash Landing on You", "Goblin", "My Girlfriend Is a Gumiho", "Descendants of the Sun"],
+      "answer": "My Girlfriend Is a Gumiho"
+    },
+    {
+      "question": "In 'Crash Landing on You', where does the South Korean heiress accidentally land?",
+      "options": ["China", "Russia", "North Korea", "Japan"],
+      "answer": "North Korea"
+    },
+    {
+      "question": "Which actor is famous for his roles in 'Goblin' and 'Train to Busan'?",
+      "options": ["Lee Min-ho", "Hyun Bin", "Gong Yoo", "Park Seo-joon"],
+      "answer": "Gong Yoo"
+    },
+    {
+      "question": "What is the name of the female lead in 'Descendants of the Sun'?",
+      "options": ["Song Hye-kyo", "Kim Ji-won", "Park Shin-hye", "Bae Suzy"],
+      "answer": "Song Hye-kyo"
+    },
+    {
+      "question": "Which drama is about a genius doctor with Savant Syndrome?",
+      "options": ["Good Doctor", "Hospital Playlist", "Dr. Romantic", "Doctors"],
+      "answer": "Good Doctor"
+    },
+    {
+      "question": "In 'Weightlifting Fairy Kim Bok-joo', what sport does the female lead specialize in?",
+      "options": ["Swimming", "Gymnastics", "Weightlifting", "Running"],
+      "answer": "Weightlifting"
+    },
+    {
+      "question": "Which drama features a love story between a human and an alien?",
+      "options": ["My Love from the Star", "Legend of the Blue Sea", "W", "Hotel Del Luna"],
+      "answer": "My Love from the Star"
+    },
+    {
+      "question": "What is the main theme of 'Itaewon Class'?",
+      "options": ["Revenge and entrepreneurship", "Time travel romance", "Medical drama", "Legal battles"],
+      "answer": "Revenge and entrepreneurship"
+    },
+    {
+      "question": "Which drama stars Lee Min-ho as a king who travels between two parallel worlds?",
+      "options": ["The Heirs", "City Hunter", "The King: Eternal Monarch", "Boys Over Flowers"],
+      "answer": "The King: Eternal Monarch"
+    },
+    {
+      "question": "What is the profession of the male lead in 'Vincenzo'?",
+      "options": ["Lawyer", "Doctor", "Mafia consigliere", "Chef"],
+      "answer": "Mafia consigliere"
+    },
+    {
+      "question": "Which drama is set in a magical hotel that caters to ghosts?",
+      "options": ["Doom at Your Service", "Tale of the Nine Tailed", "Hotel Del Luna", "A Korean Odyssey"],
+      "answer": "Hotel Del Luna"
+    },
+    {
+      "question": "In 'Reply 1988', what is the name of the neighborhood where the main characters live?",
+      "options": ["Ssamundong", "Gangnam", "Itaewon", "Hongdae"],
+      "answer": "Ssamundong"
+    },
+    {
+      "question": "Which drama revolves around a prosecutor who can see ghosts?",
+      "options": ["Master's Sun", "Oh My Ghost", "Bring It On, Ghost", "Ghost Doctor"],
+      "answer": "Master's Sun"
+    },
+    {
+      "question": "What is the name of the popular webtoon artist in 'W: Two Worlds Apart'?",
+      "options": ["Oh Yeon-joo", "Kang Chul", "Yoon So-hee", "Seo Do-yoon"],
+      "answer": "Kang Chul"
+    },
+    {
+      "question": "Which drama features a romance between a grim reaper and a human?",
+      "options": ["My Roommate Is a Gumiho", "Goblin", "Tale of the Nine Tailed", "A Korean Odyssey"],
+      "answer": "Goblin"
+    }
+  ],
+  "Animated world": [
+    {
+      "question": "In 'The Lion King', what is the name of Simba's father?",
+      "options": ["Scar", "Timon", "Mufasa", "Pumbaa"],
+      "answer": "Mufasa"
+    },
+    {
+      "question": "Which studio produced 'Toy Story'?",
+      "options": ["DreamWorks Animation", "Pixar Animation Studios", "Walt Disney Animation Studios", "Illumination"],
+      "answer": "Pixar Animation Studios"
+    },
+    {
+      "question": "What is the name of the main character in 'Spirited Away'?",
+      "options": ["Satsuki", "Mei", "Chihiro", "Kiki"],
+      "answer": "Chihiro"
+    },
+    {
+      "question": "In 'Frozen', what is Elsa's primary magical power?",
+      "options": ["Fire manipulation", "Earth bending", "Ice and snow manipulation", "Wind control"],
+      "answer": "Ice and snow manipulation"
+    },
+    {
+      "question": "Which animated film features a robot named WALL-E?",
+      "options": ["Up", "Finding Nemo", "WALL-E", "Monsters, Inc."],
+      "answer": "WALL-E"
+    },
+    {
+      "question": "What is the name of the grumpy old man in 'Up'?",
+      "options": ["Carl Fredricksen", "Russell", "Dug", "Charles Muntz"],
+      "answer": "Carl Fredricksen"
+    },
+    {
+      "question": "Which animated movie tells the story of a rat who wants to be a chef?",
+      "options": ["Cars", "Ratatouille", "Coco", "Luca"],
+      "answer": "Ratatouille"
+    },
+    {
+      "question": "In 'Moana', what is the name of her demigod companion?",
+      "options": ["Maui", "Heihei", "Pua", "Tamatoa"],
+      "answer": "Maui"
+    },
+    {
+      "question": "Which animated film is set in the city of Zootopia?",
+      "options": ["Sing", "Despicable Me", "Zootopia", "The Secret Life of Pets"],
+      "answer": "Zootopia"
+    },
+    {
+      "question": "What is the name of the villain in 'Aladdin'?",
+      "options": ["Gaston", "Maleficent", "Ursula", "Jafar"],
+      "answer": "Jafar"
+    },
+    {
+      "question": "Which animated film features a young girl named Riley and her emotions?",
+      "options": ["Soul", "Inside Out", "Onward", "Turning Red"],
+      "answer": "Inside Out"
+    },
+    {
+      "question": "In 'How to Train Your Dragon', what is the name of Hiccup's dragon?",
+      "options": ["Stormfly", "Hookfang", "Meatlug", "Toothless"],
+      "answer": "Toothless"
+    },
+    {
+      "question": "Which animated movie is about a family of superheroes?",
+      "options": ["Big Hero 6", "The Incredibles", "Wreck-It Ralph", "Raya and the Last Dragon"],
+      "answer": "The Incredibles"
+    },
+    {
+      "question": "What is the name of the clownfish in 'Finding Nemo'?",
+      "options": ["Dory", "Marlin", "Gill", "Squirt"],
+      "answer": "Marlin"
+    },
+    {
+      "question": "Which animated film features a princess who lives in a tower and has magical long hair?",
+      "options": ["Brave", "Tangled", "The Princess and the Frog", "Sleeping Beauty"],
+      "answer": "Tangled"
+    }
+  ],
+  "Cartoon world": [
+    {
+      "question": "What is the name of the yellow sponge who lives in a pineapple under the sea?",
+      "options": ["Patrick Star", "Squidward Tentacles", "Mr. Krabs", "SpongeBob SquarePants"],
+      "answer": "SpongeBob SquarePants"
+    },
+    {
+      "question": "Which cartoon features a boy and his dog who can talk and go on adventures?",
+      "options": ["The Simpsons", "Family Guy", "Adventure Time", "Scooby-Doo, Where Are You!"],
+      "answer": "Adventure Time"
+    },
+    {
+      "question": "What is the name of the talking dog in 'Scooby-Doo'?",
+      "options": ["Scrappy-Doo", "Dino", "Scooby-Doo", "Astro"],
+      "answer": "Scooby-Doo"
+    },
+    {
+      "question": "Which cartoon family lives in the town of Springfield?",
+      "options": ["The Griffins", "The Flinstones", "The Simpsons", "The Jetsons"],
+      "answer": "The Simpsons"
+    },
+    {
+      "question": "What is the name of the cat who is always trying to catch a mouse named Jerry?",
+      "options": ["Tom", "Sylvester", "Felix", "Garfield"],
+      "answer": "Tom"
+    },
+    {
+      "question": "Which cartoon character is known for saying 'What's up, doc?'",
+      "options": ["Daffy Duck", "Porky Pig", "Bugs Bunny", "Elmer Fudd"],
+      "answer": "Bugs Bunny"
+    },
+    {
+      "question": "In 'The Flintstones', what is Fred Flintstone's catchphrase?",
+      "options": ["Yabba Dabba Doo!", "Cowabunga!", "Zoinks!", "D'oh!"],
+      "answer": "Yabba Dabba Doo!"
+    },
+    {
+      "question": "Which cartoon features a superhero who is a young boy with a magical watch?",
+      "options": ["Danny Phantom", "Kim Possible", "Ben 10", "Generator Rex"],
+      "answer": "Ben 10"
+    },
+    {
+      "question": "What is the name of the city where Batman operates?",
+      "options": ["Metropolis", "Star City", "Gotham City", "Central City"],
+      "answer": "Gotham City"
+    },
+    {
+      "question": "Which cartoon features a group of teenagers solving mysteries with their talking dog?",
+      "options": ["Johnny Bravo", "Dexter's Laboratory", "Scooby-Doo, Where Are You!", "Powerpuff Girls"],
+      "answer": "Scooby-Doo, Where Are You!"
+    },
+    {
+      "question": "What is the name of the robot maid in 'The Jetsons'?",
+      "options": ["Rosie", "Judy", "Jane", "Elroy"],
+      "answer": "Rosie"
+    },
+    {
+      "question": "Which cartoon features a boy who has a magical talking dog named Jake?",
+      "options": ["Regular Show", "Steven Universe", "Adventure Time", "Gumball"],
+      "answer": "Adventure Time"
+    },
+    {
+      "question": "What is the name of the main character in 'Dora the Explorer'?",
+      "options": ["Boots", "Diego", "Dora", "Swiper"],
+      "answer": "Dora"
+    },
+    {
+      "question": "Which cartoon features two brothers who invent crazy things during their summer vacation?",
+      "options": ["Gravity Falls", "Phineas and Ferb", "Teen Titans Go!", "The Amazing World of Gumball"],
+      "answer": "Phineas and Ferb"
+    },
+    {
+      "question": "What is the name of the city where the Powerpuff Girls protect?",
+      "options": ["Townsville", "Mega City", "Jump City", "Metropolis"],
+      "answer": "Townsville"
+    }
+  ]
+}
+
